@@ -1,0 +1,1 @@
+{"scripts":{"start":"node dist/server.js","build":"tsc","test":"vitest run"},"dependencies":{"fastify":"4.28.1"},"devDependencies":{"@types/node":"22.5.4","typescript":"5.5.4","vitest":"2.0.5"}}
